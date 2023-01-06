@@ -2,5 +2,18 @@ h2 { font-family: Times New Roman;}
 li{display: inline;
    width:max-content;
    text-align: center;
-   border: 1px solid black;
    }
+a:link, a:visited {
+            background-color: white;
+            color: black;
+            border: 1px solid blue;
+            padding: 30px 30px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+         }
+         a:hover, a:active {
+            background-color: red;
+            color: white;
+         }
+      
