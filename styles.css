@@ -1,2 +1,4 @@
 h2 { font-family: Times New Roman;}
-li{display: inline;}
+li{display: inline;
+   width:max-content;
+   }
