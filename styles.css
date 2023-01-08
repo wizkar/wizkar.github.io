@@ -11,7 +11,7 @@ a:link, a:visited {
             text-align: center;
             text-decoration: none;
             display: inline-block;
-            block-size: 400px;
+            block-size: 200px;
          }
          a:hover, a:active {
             background-color: red;
