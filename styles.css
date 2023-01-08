@@ -1,4 +1,8 @@
-
+body{
+background-color: silver;
+ color: white;
+ padding: 20px;
+ font-family: Arial, Verdana, sans-serif;}
 h2 { font-family: Times New Roman;}
 li{display: inline;
    width:max-content;
