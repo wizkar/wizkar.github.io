@@ -1,3 +1,7 @@
+body {background-color:gold;
+   background-image:url(weavetile2.gif);
+  background-repeat:no-repeat;
+ background-attachment:fixed;}
 h2 { font-family: Times New Roman;}
 li{display: inline;
    width:max-content;
