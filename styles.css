@@ -15,7 +15,7 @@ a:link, a:visited {
            block-size: auto;
          }
          a:hover, a:active {
-            background-color: red;
+            background-color: gold;
             color: white;
          }
       
