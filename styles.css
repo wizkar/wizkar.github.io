@@ -1,5 +1,5 @@
-img.animated-gif{ width:120px;
-                  height:auto;}
+img.animated-gif{ width:auto;
+                 max-height:80px;}
 #logo img {
     max-height: 80px;
     width: auto;
