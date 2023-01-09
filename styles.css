@@ -1,4 +1,7 @@
-
+#logo img {
+    max-height: 80px;
+    width: auto;
+}
 h2 { font-family: Times New Roman;}
 li{display: inline;
    width:max-content;
