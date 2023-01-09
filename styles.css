@@ -2,6 +2,7 @@ body { min-height: 100vh; }
 #logo img {
     max-height: 80px;
     width: auto;
+    position: center;
 }
 h2 { font-family: Times New Roman;}
 li{display: inline;
@@ -17,6 +18,7 @@ a:link, a:visited {
             text-decoration: none;
             display: inline-block;
            block-size: auto;
+           position: center;
          }
          a:hover, a:active {
             background-color: silver;
