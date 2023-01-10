@@ -99,11 +99,7 @@ a:link, a:visited {
   background-color: #e1306c;
   color: #ffffff;
 }
-.wrapper .github:hover,
-.wrapper .github:hover .tooltip,
-.wrapper .github:hover .tooltip::before {
-  background-color: #333333;
-  color: #ffffff;
+
 }
 .wrapper .youtube:hover,
 .wrapper .youtube:hover .tooltip,
