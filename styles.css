@@ -13,7 +13,7 @@ li{display: inline;
    text-align: center;
    }
 a:link, a:visited {
-            background-color: white;
+            background-color: palegoldenrod;
             color: black;
             border: 1px solid gold;
             padding: 30px 30px;
