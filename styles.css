@@ -1,6 +1,7 @@
 div{text-align: center;}
 .my block {text-align: center;}
-body { min-height: 100vh; }
+body { min-height: 100vh; 
+       background-color:palegoldenrod;}
 #logo img {
     max-height: 80px;
     width: auto;
